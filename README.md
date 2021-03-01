@@ -6,6 +6,8 @@
 ### Studying
 * 🌱 I’m currently learning Java
 * 🌱 I’m currently learning Algorithm
+
+
 ![jaedeokhan's github stats](https://github-readme-stats.vercel.app/api?username=jaedeokhan&show_icons=true&theme=dracula)
 
 
