@@ -1,7 +1,7 @@
 ## JaedeokHan [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaedeokhan%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="mailto:hjaedeok@gmail.com">![](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjaedeok@gmail.com)</a> <a href="https://co-deok.tistory.com/" target="_blank">![](http://img.shields.io/badge/-Blog-blue?style=flat-square&logo=0E9648&link=https://co-deok.tistory.com/)</a>
 
 ### Hello, World!
-* Backend-developer-to-be 
+* WEB-Backend-developer-to-be 
 
 ### Studying
 * 🌱 I’m currently learning Java, Algorithm
