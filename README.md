@@ -12,7 +12,7 @@
 <!--   빅데이터 공학과로 복수전공을 하고 프로그래밍을 처음 접하게 되었고, 생활코딩의 웹 강의를 보고 나서 웹에 입문하게 되었습니다.<br> 
   현재는 웹 백엔드 개발자가 되기 위해서 Java, Spring을 공부하며 Java로 코딩 테스트를 준비하고 있습니다. -->
 <div align="center">
-  <p>WEB-Backend-developer-to-be</p>
+  <p>WEB-Backend-developer</p>
 </div>
 
 <!-- 기술 스택 -->
