@@ -1,5 +1,5 @@
 <!-- 타이틀 -->
-<h2 align="center">한재덕</h2> 
+<h2 align="center">JaeDeok Han</h2> 
 <div align="center">
 <!--   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaedeokhan%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>&nbsp; -->
   <a href="mailto:hjaedeok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjaedeok@gmail.com"></a>&nbsp;
